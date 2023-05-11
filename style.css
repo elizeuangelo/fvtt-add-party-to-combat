@@ -1,0 +1,5 @@
+.combat-sidebar .combat-tracker-header a.combat-button.combat-add-players {
+    flex: 0;
+    width: 0;
+    padding-left: 3px;
+}
